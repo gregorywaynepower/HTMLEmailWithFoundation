@@ -6,7 +6,7 @@ This email was created using [Foundation for Emails 2](https://get.foundation/em
 
 ## Final Product
 
-[Hosted on Netlify](#)
+[Hosted on Netlify Please Click this Link](https://gregorywpower-htmlemail.netlify.com/)
 
 ## Reference Image
 
